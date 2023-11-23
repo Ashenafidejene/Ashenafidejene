@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sangutashe19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing](https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
