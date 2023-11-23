@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [task-mate](https://github.com/Ashenafidejene/task-mate)
 
-- 🌱 I’m currently learning **react webdevelopment**
+- 🌱 I’m currently learning **next js**
 
 - 👯 I’m looking to collaborate on [Netflix-clone](https://github.com/Ashenafidejene/Netflix-clone)
 
