@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashenafi</h1>
+<p> a highly motivated and detail-oriented 3rd-year Computer
+Science student at Addis Ababa University in Ethiopia.
+<p>
 <h3 align="center">A passionate full(MERN) stack developer from Ethiopia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashenafidejene" alt="ashenafidejene" /></a> </p>
