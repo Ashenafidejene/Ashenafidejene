@@ -1,38 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ashenafi</h1>
-<p> a highly motivated and detail-oriented 4th-year Computer
-Science student at Addis Ababa University in Ethiopia.
-<p>
-<h3 align="center">A passionate full(MERN) stack developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Ashenafi Dejene</h1>
+<h3 align="center">Software Developer | Ethiopia 🇪🇹</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashenafidejene" alt="ashenafidejene" /></a> </p>
-
-- 🔭 I’m currently working on [task-mate](https://github.com/Ashenafidejene/task-mate)
-
-- 🌱 I’m currently learning **next js**
-
-- 👯 I’m looking to collaborate on [Netflix-clone](https://github.com/Ashenafidejene/Netflix-clone)
-
-- 🤝 I’m looking for help with [Zoom-clone](https://github.com/Ashenafidejene/Zoom-clone)
-
-- 💬 Ask me about **react, nodejs,express**
-
-- 📫 How to reach me **sangutashe19@gmail.com**
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ashenafi-dejene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashenafi-dejene" height="30" width="40" /></a>
-<a href="https://twitter.com/ashudejeu1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashudejeu1331" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashenafi-dejene-9b89b2257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashenafi-dejene-9b89b2257" height="30" width="40" /></a>
-<a href="https://discord.gg/ashenafi0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashenafi0369" height="30" width="40" /></a>
+<p align="center">
+  <strong>Frontend:</strong> Next.js, React.js, Vue.js &nbsp;|&nbsp;
+  <strong>Backend:</strong> C#, FastAPI, Node.js, Django &nbsp;|&nbsp;
+  <strong>Mobile:</strong> Flutter, React Native &nbsp;|&nbsp;
+  <strong>Desktop:</strong> Electron.js
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashenafidejene&show_icons=true&locale=en&layout=compact" alt="ashenafidejene" /></p>
+### 👨‍💻 About Me
+- 🔭 Currently working as a **Software Developer** in Ethiopia  
+- 🌱 Learning more about **Next.js**, **GraphQL**, and **Software Architecture**  
+- 💡 Passionate about building accessible, scalable, and innovative digital solutions  
+- 💬 Ask me about **Next.js**, **FastAPI**, **Flutter**, or **Electron.js**
+- 🤝 Open to collaboration on meaningful open-source or startup projects  
+- 📫 Reach me at **sangutashe19@gmail.com**  
+- 📄 [My Resume](https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashenafidejene&show_icons=true&locale=en" alt="ashenafidejene" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenafidejene&" alt="ashenafidejene" /></p>
+### 🛠️ Tech Stack
+
+#### 🚀 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+#### 🔧 Backend
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
+#### 📱 Mobile & Desktop
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?logo=electron&logoColor=white)
+
+#### 💾 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
+
+#### 📦 Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashenafidejene&show_icons=true&theme=tokyonight" alt="Ashenafi's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafidejene&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashenafidejene&theme=tokyonight" alt="GitHub Streak" width="100%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ashenafi-dejene-9b89b2257" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ashudejeu1331" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/ashenafi-dejene" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/ashenafi0369" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
