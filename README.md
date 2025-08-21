@@ -30,7 +30,7 @@
 ### 📫 Reach Me
 
 - **Email**: sangutashe19@gmail.com  
-- **Resume**: [View Here](https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing)
+- **Resume**: [View Here]([https://drive.google.com/file/d/1BbMDwp6AoZD2XINryq5E2IxXRspmyNyh/view?usp=sharing](https://drive.google.com/file/d/1dcgA0qVfrhuHSC5WS1FPYtXbPraAONpZ/view?usp=sharing))
 
 ---
 
